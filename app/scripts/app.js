@@ -5,7 +5,7 @@ var gamell = (function($, window){
 	var MOBILE_FALLBACK_MESSAGE = 'You are viewing a limited version of the site, please use a desktop browser to enjoy a much better experience.';
 	var UNSUPPORTED_BOWSER_FALLBACK_MESSAGE = 'You are using an <strong>unsupported</strong> browser. Please <a href="http://browsehappy.com/">use a supported browser</a> - Chrome, Firefox or Safari - to improve your experience.';
 
-	var RESUME_URL = "http://gamell.io/media/resume-joan-gamell.pdf"; 
+	var RESUME_URL = "http://gamell.io/media/resume-alex-manrique.pdf"; 
 
 	var SPRITE_URL = "/sprite.png";
 
