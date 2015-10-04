@@ -414,9 +414,6 @@ AddCharset utf-8 .atom .css .js .json .rss .vtt .xml
   php_value session.cookie_httponly true
 </IfModule>
 
-#----------------------------------------
-# Additions by gamell
-#----------------------------------------
 
 # read more: https://developers.google.com/speed/docs/best-practices/caching?hl=sv&csw=1#LeverageProxyCaching
 
