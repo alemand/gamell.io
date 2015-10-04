@@ -8,7 +8,7 @@
     var margin = {top: 20, right: 20, bottom: 30, left: 50},
     width = 500 - margin.left - margin.right,
     height = 400 - margin.top - margin.bottom,
-    STATIC_DATES = [2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013];
+    STATIC_DATES = [2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016];
 
     var x = d3.scale.linear()
         .range([0, width]);
@@ -18,7 +18,7 @@
 
     var xAxis = d3.svg.axis()
         .scale(x)
-        .tickValues([2004, 2007, 2010, 2013])
+        .tickValues([2007, 2010, 2013, 2016])
         .tickFormat(d3.format(".0f"))
         .tickPadding(10)
         .tickSize(0)
