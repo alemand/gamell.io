@@ -101,13 +101,13 @@ var gamell = (function($, window){
 	};
 
 	var initDropboxSaver = function(){	
-		$("body").append('<script type="text/javascript" src="https://www.dropbox.com/static/api/1/dropins.js" id="dropboxjs" data-app-key="e7nb3h5uznhkmq9"></script>');
+		$("body").append('<script type="text/javascript" src="https://www.dropbox.com/static/api/1/dropins.js" id="dropboxjs" data-app-key="1fn5jk9p5pw4mhl"></script>');
 		$("#resume-formal .dropbox-button").bind("click",function(){
 			try{
 				var options = {
 				    files: [
 				        {
-				            'filename': "Resume Joan Gamell.pdf",
+				            'filename': "Resume Alex Manrique.pdf",
 				            'url': RESUME_URL
 				        }
 				    ],
