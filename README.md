@@ -1,14 +1,14 @@
-gamell.io
+alexmanrique.com
 =========
 
-A template for your online resume / portfolio. See it live at <a href="http://gamell.io">gamell.io</a>
+A template for your online resume / portfolio. See it live at <a href="http://alexmanrique.com">alexmanrique.com</a>
 
 This work is distributed under the MIT License.
 
 Description
 -----------
 
-This is a plain HTML, JS and CSS website which I use as my resume and portfolio online at http://gamell.io
+This is a plain HTML, JS and CSS website which I use as my resume and portfolio online at http://www.alexmanrique.com
 
 You can use it "as is", parts of it, modify it, get inspiration etc.
 
