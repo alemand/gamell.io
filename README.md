@@ -55,7 +55,7 @@ Libraries used
 
 Inspiration
 -----------
-- gamell.io
+- <a href="http://gamell.io">gamell.io</a>
 - Sunburst infographic: <a href="http://bl.ocks.org/mbostock/4063423">this</a>, <a href="http://bl.ocks.org/kerryrodden/7090426">this</a> and <a href="http://www.jasondavies.com/coffee-wheel/">this</a>.
 - <a href="http://bl.ocks.org/dwtkns/4973620">World globe</a>
 - General design and colors: iOS7
